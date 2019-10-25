@@ -1,2 +1,2 @@
-# Class-21
-Creating my own library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
